@@ -1,0 +1,29 @@
+{   "name" : "Veronica #1",
+    "description" : "This is inspired by the unresilient energy that she is empowered with",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmbiyiHtauYv28Lf5K12FSabky1f7aJxz4gZn68iygfL1x",
+    
+
+    "attributes" : [ 
+        {
+            "trait_type" : "Breed",
+            "value" : "Homo sapiens"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Personality", 
+            "value": "Happy"
+        },
+        {
+            "trait_type" : "Eye color",
+            "value" : "brown"
+        },
+        {
+            "trait_type": "Date",
+            "value": "19th August 2022"
+        }
+            ]
+
+    }
